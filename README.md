@@ -1,104 +1,20 @@
 # Roll-a-Ball
 
+<img width="1917" height="882" alt="image" src="https://github.com/user-attachments/assets/0a5c12ca-510f-42ab-8c8f-8d9ec7af877b" />
+
+
 ## 概要
-カードゲームのデッキ構築・検索を効率化するWebアプリ。プレイヤーが戦略検討に集中できるように設計。
 
----
+Unityチュートリアルに則って制作した3Dゲームです。
+ソロ開発です。久々にUnityに触れたくなったため、作りました。
 
-## 🖼️ デモ・スクリーンショット
-### メイン画面
-![main](./docs/images/main.png)
+※参考にしたチュートリアルのページはもう見れなくなってしまったようです。
 
-### 機能①：〇〇
-![feature1](./docs/images/feature1.png)
+## 技術スタック
 
-※GIFあると強い
+[![Unity](https://img.shields.io/badge/Unity-2021-000000?logo=unity&logoColor=white)](https://unity.com/)
+[![CSharp](https://img.shields.io/badge/C%23-.NET-239120?logo=csharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
+[![VisualStudio](https://img.shields.io/badge/Visual%20Studio-IDE-5C2D91?logo=visualstudio&logoColor=white)](https://visualstudio.microsoft.com/ja/)
 
----
-
-## 🔗 デモURL / リポジトリ
-- デモ: https://xxx
-- リポジトリ: https://github.com/xxx
-
----
-
-## 🎯 開発背景
-- なぜ作ろうと思ったか
-- どんな課題・不満があったか
-- 個人的な動機でもOK（ここ結構見られる）
-
-例：
-既存ツールでは検索条件が弱く、実戦的なデッキ構築がしづらかったため開発。
-
----
-
-## 👥 開発体制
-- 人数：
-- 役割：
-- 開発期間：
-
-例：
-- 人数：1人（個人開発）
-- 役割：要件定義 / 設計 / 実装 / デプロイ
-- 期間：2週間
-
----
-
-## 🛠️ 使用技術
-### フロントエンド
-- Vue / React / TypeScript など
-
-### バックエンド
-- Node.js / Firebase / Supabase など
-
-### インフラ
-- AWS (S3 / Lambda など)
-
-### その他
-- 使用ライブラリ
-- CI/CDなど
-
----
-
-## ✨ こだわったポイント
-- 技術的に工夫した点
-- UX的に意識した点
-
-例：
-- 検索速度向上のためにインデックス設計を最適化
-- UIは操作回数を減らす設計にした
-
----
-
-## ⚠️ 苦労した点・課題
-- 実際に詰まったポイント
-- どうやって解決したか（←重要）
-
-例：
-- 状態管理が複雑化 → store設計を見直し解決
-
----
-
-## 📈 改善予定 / 今後の展望
-- 今後やりたいこと
-- 未実装機能
-
-例：
-- ユーザー認証機能の追加
-- モバイル対応
-
----
-
-## 🧠 学んだこと
-- 技術的な学び
-- 開発プロセスの学び
-
-例：
-- 小さく作って早く改善する重要性を理解した
-
----
-
-## 📦 セットアップ方法（任意）
-```bash
-npm install
-npm run dev
+## 制作時期
+社会人　2024年冬（2日）
