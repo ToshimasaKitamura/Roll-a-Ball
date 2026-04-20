@@ -16,5 +16,9 @@ Unityチュートリアルに則って制作した3Dゲームです。
 [![CSharp](https://img.shields.io/badge/C%23-.NET-239120?logo=csharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
 [![VisualStudio](https://img.shields.io/badge/Visual%20Studio-IDE-5C2D91?logo=visualstudio&logoColor=white)](https://visualstudio.microsoft.com/ja/)
 
+## チーム構成
+
+ソロ開発です。
+
 ## 制作時期
 社会人　2024年冬（2日）
